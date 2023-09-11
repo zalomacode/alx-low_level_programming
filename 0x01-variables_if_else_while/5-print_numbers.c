@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main -entry point 
+ * main -entry point
  *
  * Description: single numbers
  *
@@ -14,7 +14,7 @@ int main(void)
 
 	while (digit <= 9)
 	{
-		printf("%i" . digit);
+		printf("%i", digit);
 		digit++;
 	}
 	printf("\n");
