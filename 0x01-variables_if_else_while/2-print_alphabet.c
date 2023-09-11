@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-*main - Entry point
+*main -Entry point
 *
 *Description: print all aphabet letters
 *
@@ -14,7 +14,7 @@ int main(void)
 
 	while (ch <= 'z')
 	{
-		purchar(ch);
+		putchar(ch);
 		ch++;
 	}
 	putchar('\n');
