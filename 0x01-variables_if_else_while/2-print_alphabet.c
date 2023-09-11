@@ -6,7 +6,6 @@
 *Description: print all aphabet letters
 *
 *Return: Always 0 (Success)
-*
 */
 
 int main(void)
